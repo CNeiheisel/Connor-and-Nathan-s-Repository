@@ -12,3 +12,5 @@ Wiring to the circuitboard and Arduino for project
 
 ![project while open](https://github.com/CNeiheisel/Connor-and-Nathan-s-Repository/blob/main/Interesting-Push-Button/Open%20Project.jpg)
 In this state the alarm would be active, as the wires are not connected
+
+## Demonstration of the Project

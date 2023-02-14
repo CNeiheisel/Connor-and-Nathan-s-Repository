@@ -17,7 +17,7 @@ In this state the alarm would be active, as the wires are not connected
 ![Video of Project](ProjectVid.MOV)
 
 ## Project Code
-`
+```
 int buttonPin = 2;
 int buttonState = 0;
 
@@ -35,4 +35,4 @@ void loop() {
   }
  
 }
-`
+```

@@ -6,4 +6,6 @@ If the laptop was opened then the sound would play.
 ## Visuals of Project
 ![The whole project](https://github.com/CNeiheisel/Connor-and-Nathan-s-Repository/blob/main/Interesting-Push-Button/Whole%20Project.jpg)
 This is a general overview of what the project looked like.
-![Breadboard wiring for the project]()
+
+![Breadboard wiring for the project](Breadboard.jpg)
+Wiring to the circuitboard and Arduino for project

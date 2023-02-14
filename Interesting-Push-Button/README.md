@@ -14,7 +14,7 @@ Wiring to the circuitboard and Arduino for project
 In this state the alarm would be active, as the wires are not connected
 
 ## Demonstration of the Project
-![Video of Project](ProjectVid.MOV)
+https://user-images.githubusercontent.com/124809061/218817381-1be8b4a7-0a84-4e71-9abd-7ecacc13ce95.mp4
 
 ## Project Code
 ```

@@ -15,3 +15,24 @@ In this state the alarm would be active, as the wires are not connected
 
 ## Demonstration of the Project
 ![Video of Project](ProjectVid.MOV)
+
+## Project Code
+`
+int buttonPin = 2;
+int buttonState = 0;
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(buttonPin, INPUT);
+}
+
+void loop() {
+  delay(100);
+  buttonState = digitalRead(buttonPin);
+  if (buttonState == LOW)
+  {
+   tone(8, 440,100);
+  }
+ 
+}
+`

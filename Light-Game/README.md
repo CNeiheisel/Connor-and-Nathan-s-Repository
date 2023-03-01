@@ -5,3 +5,6 @@ The light will flash on after a short random time interval and the player must q
 If they don't the light will flash on and off briefly before lighting constantly.
 Then the player's score, the amount of successful button presses in the interval, will be displayed on the Serial Monitor.
 In order to restart and play again, the player must simply press the button again and the game will restart with a reset score.
+## Images of Project
+![Image of Game on breadboard](GameBoard.HEIC)
+This is the game and the wiring for the circuit board.

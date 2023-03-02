@@ -12,4 +12,4 @@ This is the game and the wiring for the circuit board.
 This is the score pop-up in the serial monitor after a finished game.
 ## Video of Project
 https://github.com/CNeiheisel/Connor-and-Nathan-s-Repository/blob/main/Light-Game/GameVideo.mp4
-This is a video of the game being played and the results on the Serial Monitor.
+

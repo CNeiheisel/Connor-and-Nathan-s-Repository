@@ -12,4 +12,83 @@ This is the game and the wiring for the circuit board.
 This is the score pop-up in the serial monitor after a finished game.
 ## Video of Project
 ![Vid of Proj](GameVideo1.mp4)
+## Project Code
+```
+int sensorValue;
+int led = 13;
+int Score = 0;
+boolean ResetGame = true;
+boolean GameEnd=false;
+long timeVal;
+boolean LightOn;
+int GameStart=1;
+void setup() {
+  Serial.begin(9600);
+  pinMode(2, INPUT);
+  pinMode(led, OUTPUT);
+  
+}
+
+void loop() {
+   sensorValue = digitalRead(2);
+  
+
+
+  if(GameStart==1){
+ 
+Score=Score+1;
+  delay(random(1000,2000));
+    digitalWrite(led, HIGH); 
+    
+    LightOn=true;
+    GameStart=0;
+    
+    }
+if(LightOn==true && sensorValue==1){
+  
+    digitalWrite(led,LOW);
+    LightOn==false;
+    GameStart=1;
+    delay(200);
+     
+    }     
+
+    if(LightOn==false && sensorValue==1){
+GameEnd=true;
+}
+  if(GameStart==0){
+    
+    timeVal=millis();
+   GameStart=2;
+  }
+    if(millis()-timeVal>=500&&GameStart==2||GameEnd==true){ 
+      GameStart=5;
+     
+    digitalWrite(led,LOW);
+  
+    delay(300);
+    digitalWrite(led,HIGH);
+   
+    delay(200);
+    digitalWrite(led,LOW);
+     
+    delay(200);
+    digitalWrite(led,HIGH);
+    
+    delay(200);
+    digitalWrite(led,LOW);
+ 
+    delay(200);
+    digitalWrite(led,HIGH);
+      
+    delay(200);
+     Serial.println("You suck");
+      Serial.println("Score:");
+      Serial.println(Score);
+      Score = 0;
+   }
+      
+ 
+    }
+```
 

@@ -11,7 +11,7 @@ This is the game and the wiring for the circuit board.
 ![Image of Scoreboard](7EE53617-21FF-49D7-BEF8-35E596F6E3C7.jpeg)
 This is the score pop-up in the serial monitor after a finished game.
 ## Video of Project
-![Vid of Proj](GameVideo1.mp4)
+This is a video demonstration of the [Light Game](https://youtu.be/vcSJcf6F3YU).
 ## Project Code
 ```
 int sensorValue;

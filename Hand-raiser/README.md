@@ -11,3 +11,5 @@ This image shows the parts we used to compile the project including the 3d print
 This is the final result of the project, with the switch being pressed and the light turned on
 ![Image of open project](Open_Project.jpg)
 This is what the put together project looks like with the lid off showing the wiring.
+## Project Purpose
+The intent for this device was to create a way for people to raise their hand without having to raise their hand. This is meant to assist those who face certain movement difficulties where raising there hand is difficult or impossible and need an alternative method to signal for a teacher's/mentor's attention.

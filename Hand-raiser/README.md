@@ -19,3 +19,5 @@ The intent for this device was to create a way for people to raise their hand wi
 [3.5 mm Jack](https://www.allelectronics.com/item/mmj/3.5mm-mono-open-audio-phone-jack/1.html)
 
 3.5MM MONO PHONE PLUG, 6 FT. CABLE
+
+The STL files for the 3D printed boxes are in this folder.

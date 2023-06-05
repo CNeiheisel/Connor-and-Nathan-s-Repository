@@ -15,7 +15,9 @@ Using two 3.5mm jacks connected to a battery pack in a 3d printed box, wires att
 
 ![Image of Attachment and Laser](LaserBattery.jpg)
 
-![Image of Box](Closed Box.jpg)
+![Image of Box](Opened Box.jpg)
+
+
 ## Project Purpose
 This attachment was created in order to allow individuals to point at objects using their glasses. This is meant to assist individuals who would have difficulty being able to point out objects using other methods.
 ## Where the Parts Came From

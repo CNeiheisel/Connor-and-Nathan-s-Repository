@@ -37,4 +37,4 @@ Box: Attached STL File
 
 Laser Pointer Attachment: Attached STL File
 
-Code for Laser Pointer on OpenSCAD: https://github.com/CNeiheisel/Connor-and-Nathan-s-Repository/blob/5c8ffaedd4690d21a4dbc51578badd53cf2a0831/Laser%20Pointer%20Attachment/OpenScadCode.pdf
+Code for Laser Pointer on OpenSCAD: [Code](https://github.com/CNeiheisel/Connor-and-Nathan-s-Repository/blob/ff0739a41db41852ee6237523c5bc127fe304994/Laser%20Pointer%20Attachment/ClipOnLaserPointer.scad)

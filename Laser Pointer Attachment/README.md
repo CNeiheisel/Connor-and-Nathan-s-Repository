@@ -36,3 +36,5 @@ Laser: 3 Volt Laser module from ALi Express https://m.aliexpress.us/?gatewayAdap
 Box: Attached STL File
 
 Laser Pointer Attachment: Attached STL File
+
+Code for Laser Pointer on OpenSCAD: https://github.com/CNeiheisel/Connor-and-Nathan-s-Repository/blob/5c8ffaedd4690d21a4dbc51578badd53cf2a0831/Laser%20Pointer%20Attachment/OpenScadCode.pdf

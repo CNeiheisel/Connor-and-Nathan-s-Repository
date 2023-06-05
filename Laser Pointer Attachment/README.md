@@ -25,7 +25,7 @@ Box that can be used to hold battery pack.
 
 
 ## Project Purpose
-This attachment was created in order to allow individuals to point at objects using their glasses. This is meant to assist individuals who would have difficulty being able to point out objects using other methods.
+This attachment was created in order to allow individuals to point at objects using their glasses. This is meant to assist individuals who would have difficulty being able to point out objects.
 ## Where the Parts Came From
 [AAA Battery Holder](https://www.amazon.com/gp/product/B07F3YKGPD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 

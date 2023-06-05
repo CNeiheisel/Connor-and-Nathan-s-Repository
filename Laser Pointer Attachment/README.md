@@ -6,16 +6,22 @@ Using two 3.5mm jacks connected to a battery pack in a 3d printed box, wires att
 
 ## Images of Project
 ![Image of Laser](Laser.jpg)
+This image shows the laser we used for the project.
 
 ![Image of Clip Prototype](ClipPrototype.jpg)
+This is a prototype clip that was made to test its fit on glasses.
 
 ![Image of Attachment Prototype](AttachmentPrototype.jpg)
+This is a prototype of a laser pointer holder.
 
 ![Image of Final Attachment](FinalAttachment.jpg)
+The final version of the laser pointer and clip.
 
 ![Image of Attachment and Laser](LaserBattery.jpg)
+Laser pointer in clip on with battery.
 
 ![Image of Box](https://github.com/CNeiheisel/Connor-and-Nathan-s-Repository/blob/95a3cab6636e8577b2d3cc894ec4db56e4a127c7/Laser%20Pointer%20Attachment/Opened%20Box.jpg)
+Box that can be used to hold battery pack.
 
 
 ## Project Purpose

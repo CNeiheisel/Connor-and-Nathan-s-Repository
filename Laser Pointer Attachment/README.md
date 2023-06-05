@@ -15,7 +15,7 @@ Using two 3.5mm jacks connected to a battery pack in a 3d printed box, wires att
 
 ![Image of Attachment and Laser](LaserBattery.jpg)
 
-![Image of Box](Opened Box.jpg)
+![Image of Box](vhttps://github.com/CNeiheisel/Connor-and-Nathan-s-Repository/blob/95a3cab6636e8577b2d3cc894ec4db56e4a127c7/Laser%20Pointer%20Attachment/Opened%20Box.jpg)
 
 
 ## Project Purpose

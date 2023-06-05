@@ -31,6 +31,8 @@ This attachment was created in order to allow individuals to point at objects us
 
 [3.5 mm Jack](https://www.allelectronics.com/item/mmj/3.5mm-mono-open-audio-phone-jack/1.html)
 
+Laser: 3 Volt Laser module from ALi Express https://m.aliexpress.us/?gatewayAdapt=glo2usa
+
 Box: Attached STL File
 
 Laser Pointer Attachment: Attached STL File

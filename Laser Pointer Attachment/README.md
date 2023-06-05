@@ -2,7 +2,7 @@
 ## General Overview
 This project involved creating a 3D model of an attachment that can hold a laser pointer and attach to glasses.
 ## How It Works
-Using two 3.5mm jacks connected to a battery pack in a 3d printed box, wires attach to the 3D printed laser pointer attachment as well as a switch
+Using two 3.5mm jacks connected to a battery pack in a 3d printed box, wires attach to the 3D printed laser pointer attachment as well as a switch.
 
 ## Images of Project
 ![Image of Laser](Laser.jpg)
